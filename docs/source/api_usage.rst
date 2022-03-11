@@ -1,3 +1,5 @@
+.. _api-python:
+
 Python (and Matlab) API for Neurodata Without Borders (NWB) format
 ==================================================================
 
